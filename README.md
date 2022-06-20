@@ -29,4 +29,4 @@ This plugin was originally developed for ArchivesSpace v1.4+. If you are running
 an ArchivesSpace version earlier than v3.x then you should try version v0.2 of
 this plugin.
 
-If you are running version v3.x then use v1.0 of this plugin.
+If you are running version v3.x then use v1.1+ of this plugin.
