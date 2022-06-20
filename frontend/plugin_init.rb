@@ -1,3 +1,7 @@
+# force false because if it is true then the external_ids section
+# will be duplicated
+AppConfig[:show_external_ids] = false
+
 Rails.application.config.after_initialize do
 
   Plugins.register_plugin_section(
